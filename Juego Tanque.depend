@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1548634094 source:c:\users\sebastian\documents\ciencias de la computacion i\proyecto final de verano\main.cpp
+	<iostream>
+	<cstdlib>
+	<allegro.h>
+	<fstream>
+
+1548524683 source:c:\users\sebastian\documents\ciencias de la computacion i\proyecto final de verano 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<allegro.h>
+	<fstream>
+
